@@ -42,17 +42,7 @@ Bu proje, Python ve Tkinter kullanarak oluşturulmuş basit bir To-Do List uygul
 
 ## Ekran Görüntüleri
 
-### Ana Ekran
 ![Ana Ekran](ss/main.png)
-
-### Görev Ekleme
-![Görev Ekleme](screenshots/add_task.png)
-
-### Görev Tamamlama
-![Görev Tamamlama](screenshots/complete_task.png)
-
-### Görev Silme
-![Görev Silme](screenshots/delete_task.png)
 
 ## Katkıda Bulunma
 
@@ -72,8 +62,8 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` d
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletişime geçin:
 
-- Email: [email@example.com](mailto:email@example.com)
-- GitHub: [kullanici-adi](https://github.com/kullanici-adi)
+- Email: [email@example.com](info@tarikaykan.com)
+- GitHub: [kullanici-adi]([https://github.com/kullanici-adi](https://github.com/TarikAykan))
 
 ```
 
