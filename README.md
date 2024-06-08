@@ -43,7 +43,7 @@ Bu proje, Python ve Tkinter kullanarak oluşturulmuş basit bir To-Do List uygul
 ## Ekran Görüntüleri
 
 ### Ana Ekran
-![Ana Ekran](ss/main_screen.png)
+![Ana Ekran](ss/ana_ekran.png)
 
 ### Görev Ekleme
 ![Görev Ekleme](screenshots/add_task.png)
